@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+/.idea/.idea.DiversionKata/.idea/contentModel.xml
+/.idea/.idea.DiversionKata/.idea/encodings.xml
+/.idea/.idea.DiversionKata/.idea/indexLayout.xml
+/.idea/.idea.DiversionKata/.idea/modules.xml
+/.idea/.idea.DiversionKata/.idea/projectSettingsUpdater.xml
+/.idea/.idea.DiversionKata/riderModule.iml
+/.idea/.idea.DiversionKata/.idea/vcs.xml
+/.idea/.idea.DiversionKata/.idea/workspace.xml
